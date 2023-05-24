@@ -1,0 +1,5 @@
+*
+!app
+!requirements-production.txt
+!data/checkpoint/default.pt
+!docker-entrypoint.sh
